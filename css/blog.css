@@ -1,0 +1,25 @@
+*{
+	font-family: helvetica;
+}
+.blogBody{
+	display: flex;
+	width:80%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.tituloBlog{
+	text-align: center;
+}
+
+.imgBlog{
+	width: 600px;
+	height: 330px;
+	margin: 20px;
+}
+
+.imgBlog2{
+	width: 500px;
+	height: 500px;
+	margin: 20px;
+}
